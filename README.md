@@ -1,0 +1,3 @@
+# Zincsearch
+
+## Documentation
